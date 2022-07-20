@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DBManager.java&apos; to &apos;mvc_movie_ex/src/main/java/util&apos;&#x0D;&#x0A;- Original project: &apos;11_hotel_booking&apos;&#x0D;&#x0A;- Destination element: &apos;mvc_movie_ex/src/main/java/util&apos;&#x0D;&#x0A;- Original element: &apos;DBManager.java&apos;" description="Copy file" destination="=mvc_movie_ex/src\/main\/java&lt;util" element1="src/main/java/util/DBManager.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1654218574352" units="0" version="1.0"/>
+</session>

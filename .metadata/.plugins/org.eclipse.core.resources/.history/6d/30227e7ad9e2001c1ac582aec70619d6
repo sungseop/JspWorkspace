@@ -1,0 +1,8 @@
+package com.ezen.dao;
+
+public class MovieDAO {
+	
+	private MovieDAO() { }
+	
+	private static MovieDAO instance = new MovieDAO();
+}

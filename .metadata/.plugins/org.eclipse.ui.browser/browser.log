@@ -1,0 +1,30 @@
+
+5월 25, 2022 09:39:58.325 NEW SESSION
+5월 25, 2022 09:39:58.325 [8604:12940:0525/093958.316:ERROR:device_event_log_impl.cc(214)] [09:39:58.315] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 25, 2022 09:39:58.325 [8604:12940:0525/093958.316:ERROR:device_event_log_impl.cc(214)] [09:39:58.315] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 25, 2022 09:39:58.325 [8604:12940:0525/093958.319:ERROR:device_event_log_impl.cc(214)] [09:39:58.319] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 09:41:53.00 [8892:14308:0525/094153.000:ERROR:device_event_log_impl.cc(214)] [09:41:53.000] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 25, 2022 09:41:53.00 [8892:14308:0525/094153.000:ERROR:device_event_log_impl.cc(214)] [09:41:53.000] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 25, 2022 09:41:53.02 [8892:14308:0525/094153.002:ERROR:device_event_log_impl.cc(214)] [09:41:53.002] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 10:18:26.901 [6816:3932:0525/101826.900:ERROR:device_event_log_impl.cc(214)] [10:18:26.900] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 25, 2022 10:18:26.901 [6816:3932:0525/101826.901:ERROR:device_event_log_impl.cc(214)] [10:18:26.900] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 25, 2022 10:18:26.904 [6816:3932:0525/101826.904:ERROR:device_event_log_impl.cc(214)] [10:18:26.903] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 25, 2022 11:31:42.394 [20364:20372:0525/113142.394:ERROR:device_event_log_impl.cc(214)] [11:31:42.393] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 25, 2022 11:31:42.394 [20364:20372:0525/113142.394:ERROR:device_event_log_impl.cc(214)] [11:31:42.394] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 25, 2022 11:31:42.396 [20364:20372:0525/113142.396:ERROR:device_event_log_impl.cc(214)] [11:31:42.396] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+5월 30, 2022 10:05:06.762 NEW SESSION
+5월 30, 2022 10:05:06.762 [21320:26272:0530/100506.761:ERROR:device_event_log_impl.cc(214)] [10:05:06.761] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 30, 2022 10:05:06.768 [21320:26272:0530/100506.761:ERROR:device_event_log_impl.cc(214)] [10:05:06.761] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 30, 2022 10:05:06.768 [21320:26272:0530/100506.766:ERROR:device_event_log_impl.cc(214)] [10:05:06.766] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 30, 2022 10:06:04.262 [21320:13504:0530/100604.262:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 30, 2022 10:31:36.574 [19312:1948:0530/103136.574:ERROR:device_event_log_impl.cc(214)] [10:31:36.573] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 30, 2022 10:31:36.574 [19312:1948:0530/103136.574:ERROR:device_event_log_impl.cc(214)] [10:31:36.573] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 30, 2022 10:31:36.580 [19312:1948:0530/103136.579:ERROR:device_event_log_impl.cc(214)] [10:31:36.580] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 30, 2022 10:38:30.30 [12880:29244:0530/103830.030:ERROR:device_event_log_impl.cc(214)] [10:38:30.030] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 30, 2022 10:38:30.31 [12880:29244:0530/103830.030:ERROR:device_event_log_impl.cc(214)] [10:38:30.030] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 30, 2022 10:38:30.36 [12880:29244:0530/103830.036:ERROR:device_event_log_impl.cc(214)] [10:38:30.035] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 30, 2022 10:51:38.104 [17112:28516:0530/105138.103:ERROR:device_event_log_impl.cc(214)] [10:51:38.103] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: ��Ұ� �����ϴ�. (0x490)
+5월 30, 2022 10:51:38.104 [17112:28516:0530/105138.104:ERROR:device_event_log_impl.cc(214)] [10:51:38.103] USB: usb_service_win.cc:415 Could not read device interface GUIDs: ������ ������ ã�� �� �����ϴ�. (0x2)
+5월 30, 2022 10:51:38.106 [17112:28516:0530/105138.106:ERROR:device_event_log_impl.cc(214)] [10:51:38.105] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 30, 2022 10:52:35.223 [17112:15324:0530/105235.223:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

@@ -1,0 +1,27 @@
+package com.ezen.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.List;
+
+public class MovieDAO {
+	
+	private MovieDAO() { }
+	
+	private static MovieDAO instance = new MovieDAO();
+	
+	public static MovieDAO getInstance() {
+		return instance;
+	}
+	
+	// 모든 영화정보 조회
+	public List<MovieVO> selectAllMovie() {
+		Connection conn = null;
+		PreparedStatement pstmt = null;
+		ResultSet rs = null;
+		String sql = "SELECT * FROM movie ORDER BY code DESC";
+		ArrayList<MovieVO> movieList = new ArrayList<>();
+	}
+	
+}

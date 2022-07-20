@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+function movieCheck() {
+	var title = document.getElementById("mtitle").value;
+	var director = document.getElementById("director").value;
+	var actor = document.getElementById("actor").value;
+}

@@ -1,0 +1,11 @@
+package com.ezen.controller.action;
+
+public class ActionFactory {
+
+	/*
+	 * [문제2]
+	 * 문제에서 제시한 업무별 URL 및 액션 클래스명을 참조하여 싱글톤 형식의 ActionFactory 
+	 * 클래스를 작성하고 사용자의 요청 파라미터(=command)에 대해 적합한 업무 모듈을 생성하여 
+	 * 반환하는 getAction() 메소드를 작성하시오. 
+	 */
+}

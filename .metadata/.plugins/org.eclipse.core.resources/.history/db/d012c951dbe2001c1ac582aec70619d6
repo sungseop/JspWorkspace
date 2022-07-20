@@ -1,0 +1,20 @@
+package com.ezen.dao;
+
+import java.util.List;
+
+public class MovieDAO {
+	
+	private MovieDAO() { }
+	
+	private static MovieDAO instance = new MovieDAO();
+	
+	public static MovieDAO getInstance() {
+		return instance;
+	}
+	
+	// 모든 영화정보 조회
+	public List<MovieVO> selectAllMovie() {
+		
+	}
+	
+}
